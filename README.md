@@ -5,7 +5,7 @@
 ✔️ O programa realiza calculos com as operações matemáticas soma, subtração, divisão e multiplicação <br>
 ✔️ O programa permite ao usuário entrar com números decimais e utilizá-los para realizar calculos <br>
 ✔️ O programa possui um botão para deletar a conta <br>
-✔️ O programa tem mum botão para apagar o último valor inserido
+✔️ O programa tem um botão para apagar o último valor inserido
 
 ## 🚀 Linguagens
 ✔️ Foi utilizado C# em todo o projeto
