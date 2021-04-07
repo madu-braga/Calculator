@@ -1,5 +1,5 @@
 <h1 align="center"> Calculadora </h1>
-<p align="center">Recriação da calculadora
+<p align="center">Recriação do programa
 
 ## 🎯 Funcionalidades
 ✔️ O programa realiza calculos com as operações matemáticas soma, subtração, divisão e multiplicação <br>
