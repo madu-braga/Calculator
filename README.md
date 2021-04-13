@@ -2,13 +2,13 @@
 <p align="center">Recriação do programa
 
 ## 🎯 Funcionalidades
-✔️ O programa realiza calculos com as operações matemáticas soma, subtração, divisão e multiplicação <br>
-✔️ O programa permite ao usuário entrar com números decimais e utilizá-los para realizar calculos <br>
-✔️ O programa possui um botão para deletar a conta <br>
-✔️ O programa tem um botão para apagar o último valor inserido
+✔️ O programa realiza calculos com as operações matemáticas soma, subtração, divisão e multiplicação; <br>
+✔️ O programa permite ao usuário entrar com números decimais e utilizá-los para realizar calculos; <br>
+✔️ O programa possui um botão para deletar a conta; <br>
+✔️ O programa tem um botão para apagar o último valor inserido.
 
 ## 🚀 Linguagens
-✔️ Foi utilizado C# em todo o projeto
+✔️ Foi utilizado C# em todo o projeto.
 
 ## 🎨 Layout
 <p align="left">
@@ -17,7 +17,7 @@
       <img src="img 3.png" width="218" height="295"> &nbsp; &nbsp; 
       
 ## ⚖️ Licença
-✔️ MIT License
+✔️ MIT License.
 
 ## 🔥 Sobre mim 
   <div>
