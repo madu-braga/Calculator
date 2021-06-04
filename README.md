@@ -12,9 +12,9 @@
 
 ## 🎨 Layout
 <p align="left">
-      <img src="img 1.png" width="218" height="295"> &nbsp; &nbsp; 
-      <img src="img 2.png" width="218" height="295"> &nbsp; &nbsp;  
-      <img src="img 3.png" width="218" height="295"> &nbsp; &nbsp; 
+      <img src="Imagens/img 1.png" width="218" height="295"> &nbsp; &nbsp; 
+      <img src="Imagens/img 2.png" width="218" height="295"> &nbsp; &nbsp;  
+      <img src="Imagens/img 3.png" width="218" height="295"> &nbsp; &nbsp; 
       
 ## ⚖️ Licença
 ✔️ MIT License.
