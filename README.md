@@ -1,4 +1,4 @@
-<h1 align="center"> Calculadora </h1>
+<h1 align="center"> Calculator </h1>
 <p align="center">Recriação do programa
 
 ## 🎯 Funcionalidades
